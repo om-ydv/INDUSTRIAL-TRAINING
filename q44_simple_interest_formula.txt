@@ -1,0 +1,30 @@
+============================================
+  Question 44: Formula for Simple Interest
+  Student: om-ydv
+============================================
+
+Problem Statement:
+  What formula is used to calculate Simple Interest?
+
+Answer:
+  Simple Interest (SI) = (P * R * T) / 100
+
+  Where:
+  P = Principal Amount (the initial money)
+  R = Rate of Interest (per year, in percentage)
+  T = Time (in years)
+
+Example:
+  P = 1000, R = 5%, T = 2 years
+  SI = (1000 * 5 * 2) / 100
+  SI = 10000 / 100
+  SI = 100
+
+  So, Simple Interest = Rs. 100
+
+Explanation:
+  - Principal is the original amount of money invested or borrowed
+  - Rate is the percentage of interest charged per year
+  - Time is the duration for which money is borrowed or invested
+  - Dividing by 100 converts the percentage into a decimal fraction
+============================================
